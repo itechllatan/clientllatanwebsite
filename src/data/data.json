@@ -1,0 +1,162 @@
+{
+  "Header": {
+    "title": "LLATAN",
+    "paragraph": "En LLATAN S.A.C, ofrecemos soluciones integrales para potenciar empresas. Nos especializamos en análisis de datos, automatización de procesos, documentación y búsqueda de talento. Transformamos datos en estrategias efectivas para impulsar el éxito empresarial."
+  },
+  "About": {
+    "paragraph": "Nuestro propósito es brindar oportunidades a los profesionales de nuestro país. Estamos convencidos que existe mucho talento que necesita hacerse competitivo y es una oportunidad. La base de nuestro crecimiento siempre será contar buenas personas sobre las cuales se pueden construir buenos profesionales. Lo que venimos logrando hasta hoy tiene como base una palabra, confianza, es algo muy difícil de conseguir y muy fácil de perder sin embargo trabajamos día a día para merecerlo.",
+    "Why": [
+      "Optimización de Recursos",
+      "Predicciones Precisas",
+      "Toma de Decisiones Informada",
+      "Mejora Continua"
+    ],
+    "Why2": [
+      "Eficiencia Operativa",
+      "Ahorro de Costos",
+      "Organización y Acceso Rápido",
+      "Identificación de Perfiles Idóneos"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Inviertis",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Renso Costa",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Caja Arequipa",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "otro",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "otro",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Enzyme Solutions",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-lightbulb-o",
+      "name": "Inteligencia de Negocio (B.I)",
+      "text": "Con nuestra experiencia en análisis avanzado de datos y tecnologías punteras, convertimos datos en información útil."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Análisis de Datos (B.A)",
+      "text": "Unimos datos, aplicamos técnicas estadísticas y creamos modelos para mejorar recursos y comprender el negocio."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Automatización de procesos",
+      "text": "Revolucionamos la eficiencia con soluciones innovadoras: simplificamos tareas, reducimos errores y aceleramos flujos de trabajo."
+    },
+    {
+      "icon": "fa fa-folder-o",
+      "name": "Recogemos las necesidades",
+      "text": "Nos comprometemos a escuchar, comprender y adaptar nuestros servicios para cumplir con las expectativas, garantizando así resultados que superen sus metas y fortalezcan nuestra relación a largo plazo."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Búsqueda de talento",
+      "text": "Nuestro enfoque en la búsqueda de talento excepcional nos permite ofrecer a nuestros clientes un equipo capacitado y comprometido, impulsando el crecimiento y el éxito sostenible en cada proyecto."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Administración del personal",
+      "text": "Ofrecemos soluciones que abarcan desde la administración eficiente de plantillas hasta la gestión de pagos. Nos aseguramos de brindar herramientas y estrategias que optimicen cada aspecto del recurso humano, permitiendo una gestión ágil y precisa."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Llatan me ha proporcionado un entorno de trabajo en el que puedo expresar mi creatividad y mejorar mis habilidades como ingeniero frontend. La cultura de la empresa fomenta la colaboración y el aprendizaje continuo. Cada proyecto es una oportunidad para desafiarnos a nosotros mismos y crear interfaces excepcionales que impactan positivamente en nuestros usuarios.\"",
+      "name": "Rafael Betancourt"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Trabajar en Llatan como desarrolladora backend ha sido una experiencia gratificante. El equipo está lleno de profesionales apasionados, siempre dispuestos a asumir desafíos. La colaboración y el enfoque en la innovación hacen que cada día sea emocionante y motivador. Estoy orgullosa de ser parte de un equipo que impulsa soluciones tecnológicas de vanguardia.\"",
+      "name": "Rebeca Perez"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Como especialista en extracción de datos en Llatan, he tenido la oportunidad de trabajar en proyectos significativos que involucran grandes conjuntos de datos. El equipo está comprometido con la precisión y la eficiencia en el manejo de información. Es emocionante formar parte de un equipo que utiliza la última tecnología para extraer insights valiosos para nuestros clientes.\"",
+      "name": "Renso"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Mi experiencia como consultor tecnológico en Llatan ha sido increíblemente enriquecedora. Trabajar directamente con clientes para entender sus desafíos y proporcionar soluciones personalizadas me ha permitido crecer profesionalmente. La diversidad de proyectos y la oportunidad de aportar valor estratégico hacen de Llatan un lugar excepcional para desarrollarse en consultoría tecnológica.\"",
+      "name": "EL otro Rafael"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Ser parte del equipo de desarrollo Full Stack en Llatan ha sido una experiencia completa. Desde el diseño de la arquitectura hasta la implementación de funciones frontend y backend, cada día es un nuevo desafío. La cultura de trabajo ágil y el apoyo constante del equipo hacen que Llatan sea un lugar donde puedo prosperar como ingeniera.\"",
+      "name": "Algun chico de inviertis"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"En mi papel como analista de datos en Llatan, he tenido la oportunidad de trabajar en proyectos analíticos complejos. La empresa valora la exploración de datos para tomar decisiones informadas. La cultura de colaboración y el enfoque en la mejora continua han hecho de mi tiempo en Llatan una experiencia valiosa y educativa.\"",
+      "name": "otro"
+    }
+  ],
+  "Team": [
+  
+    {
+      "img": "img/team/joseZ.png",
+      "name": "Jose Zeballos",
+      "job": "Socio fundador CEO"
+    },
+    {
+      "img": "img/team/paolaV.png",
+      "name": "Paola Vargas",
+      "job": "Socio fundador CDO"
+    }
+  ],
+  "Contact": {
+    "address": "Cal. Beaterio Nro. 271 Dpto. 411 Cnd. Bloque C, Arequipa, Peru, C.P: 04017 ",
+    "phone": "+51 959938183",
+    "phone2": "+51 959220048",
+    "email": "jzeballos@llatan.pe",
+    "email2": "pvargas@llatan.pe",
+    "facebook": "https://www.facebook.com/llatan.pe?locale=es_LA",
+    "twitter": "https://twitter.com/llatan_pe",
+    "linkedin": "https://www.linkedin.com/company/llatan/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Comunicación",
+      "text": "Establece canales claros y plataformas para compartir avances y resultados con clientes y equipo."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Beneficios garantizados",
+      "text": "Optimización completa para el crecimiento y eficacia de tu empresa."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Personal calificado",
+      "text": "Selección experta para equipos de alto rendimiento."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Transformación",
+      "text": "Potencial de crecimiento maximizado en cada paso."
+    }
+  ]
+}

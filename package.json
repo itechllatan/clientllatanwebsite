@@ -1,6 +1,7 @@
 {
   "name": "landingpage-react-template",
   "private": true,
+  "homepage":"http://llatan.pe",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^4.2.4",
@@ -18,6 +19,8 @@
     "smooth-scroll": "^16.1.3"
   },
   "scripts": {
+    "predeploy": "npm run build && echo llatan.pe > ./build/CNAME",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

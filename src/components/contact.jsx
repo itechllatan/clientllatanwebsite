@@ -138,7 +138,7 @@ export const Contact = (props) => {
                   {props.data ? props.data.email : "loading"}
                 </a>
                 <br />
-                <a className="contact-email" href="https://mail.google.com/mail/?view=cm&fs=1&to= pvargas@llatan.pe" target='_blank' rel='noreferrer'>
+                <a className="contact-email" href="https://mail.google.com/mail/?view=cm&fs=1&to=pvargas@llatan.pe" target='_blank' rel='noreferrer'>
                   {props.data ? props.data.email2 : "loading"}
                 </a>
               </p>

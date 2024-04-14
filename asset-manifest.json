@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7fa7f35.css",
-    "main.js": "/static/js/main.d6744d3c.js",
+    "main.js": "/static/js/main.7ef665c7.js",
     "static/media/aqp-armas.png": "/static/media/aqp-armas.aa813ba271379ff71c35.png",
     "static/media/llatanlogo.png": "/static/media/llatanlogo.05046dbe47f1268e2f99.png",
     "static/media/LlatanNombre.png": "/static/media/LlatanNombre.1b29011ac1d9a659df35.png",
@@ -11,10 +11,10 @@
     "static/media/aquituref.png": "/static/media/aquituref.2309f8cd3fe1ab76b11b.png",
     "index.html": "/index.html",
     "main.d7fa7f35.css.map": "/static/css/main.d7fa7f35.css.map",
-    "main.d6744d3c.js.map": "/static/js/main.d6744d3c.js.map"
+    "main.7ef665c7.js.map": "/static/js/main.7ef665c7.js.map"
   },
   "entrypoints": [
     "static/css/main.d7fa7f35.css",
-    "static/js/main.d6744d3c.js"
+    "static/js/main.7ef665c7.js"
   ]
 }
